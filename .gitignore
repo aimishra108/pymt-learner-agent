@@ -1,0 +1,15 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# Build/Dev
+node_modules/
+venv/
+target/
+.azure/
+
+# OS/Logs
+.DS_Store
+*.log
+*.zip
